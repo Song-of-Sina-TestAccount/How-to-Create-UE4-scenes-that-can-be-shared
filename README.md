@@ -1,11 +1,14 @@
 # How-to-Create-UE4-scenes-that-can-be-shared
-This is a detailed instructions on how to create UE4 scenes which can be uploaded to Github and shared wth others.
+This is a detailed instructions on how to create new UE4 scenes from scratch which can be uploaded to Github and shared wth others.
 
 ## Note:
 For now this only works for brand new UE4 scenes not pre-existing ones with location folders not already connected to a repository. If you haven't already pushed your own branch to 'Clone_UE4Repo_Test1' repository then do so before attempting this.
 
+## Setup:
+Visit the Song of Sina Organization here https://github.com/Song-of-Sina-TestAccount (you may need to request access from Jake). Once you have access you will receive an email to confirm this and select above the Song of Sina Organization link.
+
 ## Instructions:
-: Start by creating a new repo on Github
+1: Start by creating a new repo on on the Song of Sina organization. To do this select the green 'New' button. Under the 'Owner' dropdown select the Song-of-Sina Organization. Then under 'Repository Name' give a name, preferebly of what your project will be about. Select 'Public' and also select 'Initialize this repository with a README'  
 
 : Clone it down onto your local machine (computer)
 
